@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ryanchwiecko10@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/sauce/Downloads/Resume_Ryan_Chwiecko_2024.pdf](file:///C:/Users/sauce/Downloads/Resume_Ryan_Chwiecko_2024.pdf)
+- 📄 Know about my experiences [resume](file:///C:/Users/sauce/Downloads/Resume_Ryan_Chwiecko_2024.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
