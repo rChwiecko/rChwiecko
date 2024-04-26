@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A driven fullstack developer from Canada</h3>
+<h3 align="center">A fullstack developer from Canada</h3>
 
 - 🔭 I’m currently working on [a project called CORVue](https://github.com/rChwiecko/CORVue)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ryanchwiecko10@gmail.com**
 
-- 📄 Know about my experiences [resume](file:///C:/Users/sauce/Downloads/Resume_Ryan_Chwiecko_2024.pdf)
+- 📄 Know about my experiences [resume]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
